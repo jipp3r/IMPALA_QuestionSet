@@ -1,6 +1,7 @@
 # IMPALA Question Set
 
 ## Background
+Respiratory disease is a major cause of illness, disability and death. These tools have been designed for use in sub-Saharan Africa, where disease burdens are extremely high. They allow researchers a standardized set of questions to enumerate the symptoms of respiratory disease, and the risk factors for respiratory ill-health.
 
 
 ## Required
