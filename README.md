@@ -3,6 +3,7 @@
 ## Background
 Respiratory disease is a major cause of illness, disability and death. These tools have been designed for use in sub-Saharan Africa, where disease burdens are extremely high. They allow researchers a standardized set of questions to enumerate the symptoms of respiratory disease, and the risk factors for respiratory ill-health.
 
+These questionnaires have not yet been fully field-evaluated, but a description of the process by which they were created can be found at http://www.mdpi.com/1660-4601/15/8/1615
 
 ## Required
 This question set has been produced using the XLSForm template (an Excel representation of XForms). XForms can be used with Enketo, KoboToolbox, ODK and other packages. The choice of which platform to use is yours.
